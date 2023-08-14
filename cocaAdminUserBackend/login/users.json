@@ -1,0 +1,14 @@
+[
+    {
+        "username":"admin",
+        "password":"admin",
+        "mail":"admin@admin.com",
+        "chmod": 4
+    },
+    {
+        "username":"user",
+        "password":"user",
+        "mail":"user@user.com",
+        "chmod": 1
+    }
+]
