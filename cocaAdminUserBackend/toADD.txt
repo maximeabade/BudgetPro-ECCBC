@@ -1,0 +1,4 @@
+suivi des depenses dans le budget. Remaniement de l objet budget avec un ajout des suivis de depenses dans le budget ==> tableau suiviBudget dans un budget
+Rajouter chaque champ dans le tableau suiviBudget dans le budget lors du post dans la creation
+
+Gestion des required dans le backend du budget, puis utiliser l update pour rajouter un suivi des depenses dans le budget associé

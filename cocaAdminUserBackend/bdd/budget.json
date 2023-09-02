@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "projectCode": "PROJET DEMO",
+    "cerCode": "",
+    "description": "",
+    "cognosCode": "",
+    "direction": "",
+    "quantity": "",
+    "unitPrice": "200000",
+    "budgetV0": "",
+    "budgetV1": "",
+    "approvedRate": "",
+    "freezeNabc": "",
+    "blocking": "",
+    "unblocking": "",
+    "additionalBudget": "",
+    "budgetExternal": "",
+    "approvedBudgetMAD": "",
+    "finalBudgetF3": "",
+    "subtotalEUR": "",
+    "reservedBudget": "",
+    "bcInitiated": "",
+    "bcCommitted": "",
+    "bcRealized": "",
+    "remainingBudget": "",
+    "percentRemainingBudget": "",
+    "department": "E&D",
+    "category": "Maintenance",
+    "type": "Capex",
+    "post": "Investissement",
+    "group": "Group",
+    "currency": "MAD",
+    "id": "PROJET DEMO",
+    "suiviDepenses": [
+      
+    ]
+  }
+]
